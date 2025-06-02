@@ -2,9 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dcmdata"]
+	path = dcmdata
+	url = https://github.com/r-dcm/dcmdata
+	registered = false
+[submodule "dcmstan"]
+	path = dcmstan
+	url = https://github.com/r-dcm/dcmstan
+	registered = false
 [submodule "measr"]
 	path = measr
 	url = https://github.com/wjakethompson/measr
+[submodule "rdcmchecks"]
+	path = rdcmchecks
+	url = https://github.com/r-dcm/rdcmchecks
+	registered = false
 [submodule "taylor"]
 	path = taylor
 	url = https://github.com/wjakethompson/taylor

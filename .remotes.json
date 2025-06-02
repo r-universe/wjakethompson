@@ -1,0 +1,20 @@
+[
+  {
+    "package": "dcmdata",
+    "url": "https://github.com/r-dcm/dcmdata",
+    "via": ["measr"],
+    "from": "measr"
+  },
+  {
+    "package": "dcmstan",
+    "url": "https://github.com/r-dcm/dcmstan",
+    "via": ["measr"],
+    "from": "measr"
+  },
+  {
+    "package": "rdcmchecks",
+    "url": "https://github.com/r-dcm/rdcmchecks",
+    "via": ["measr", "dcmstan"],
+    "from": "measr"
+  }
+]
